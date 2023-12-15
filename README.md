@@ -1,4 +1,7 @@
 # fridge-forager
+
+By Charlie Arriaga, Niles Thompson, Brett Fort, Kaitlin Davis, and DeAndre Ordonez
+
 ## Cooperation Plan
 
 ### Key Strengths
